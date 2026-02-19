@@ -1,4 +1,4 @@
-# Benchmark Thuật Toán Sắp Xếp (Python vs C++)
+# Benchmark Các Thuật Toán Sắp Xếp 
 
 ## 1. Giới thiệu
 
