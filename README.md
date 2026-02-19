@@ -70,7 +70,7 @@ Sorting_Algorithms_DSA/
 ### Cài đặt
 
 ```bash
-pip install numpy matplotlib
+pip install numpy matplotlib pandas
 ```
 
 ### Biên dịch C++
